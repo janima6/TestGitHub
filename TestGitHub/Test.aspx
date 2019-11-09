@@ -10,7 +10,9 @@
     <form id="form1" runat="server">
         <div>
             <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
-&nbsp;FirstName</div>
+&nbsp;FirstName<br />
+            <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
+&nbsp;LastName</div>
     </form>
 </body>
 </html>
